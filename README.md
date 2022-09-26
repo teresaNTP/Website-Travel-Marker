@@ -2,7 +2,7 @@
 
 Site de Viagens - Travel Marker
 
-$Hearts;
+&Hearts;
 
 GitHub Pages: https://teresantp.github.io/Website-Travel-Marker/
 
