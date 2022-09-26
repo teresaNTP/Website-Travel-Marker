@@ -2,7 +2,6 @@
 
 Site de Viagens - Travel Marker
 
-&Hearts;
 
 GitHub Pages: https://teresantp.github.io/Website-Travel-Marker/
 
